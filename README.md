@@ -3,7 +3,7 @@
 FE Engineer  
 I am **motivated**🔥 to help people around me.
 
-**아이핌** <sub><sup>@aipim FE developer (2022.04 ~ now)</sup></sub>
+**아이핌** <sub><sup>@aipim FE developer (2022.04 ~ now)</sup></sub>
 
 [![Resume Badge](https://img.shields.io/badge/Resume-e5e5e5?logo=notion&logoColor=1a1a1a&link=https://www.notion.so/3d566453e3674857873182c6928a0ae5?pvs=4)](https://www.notion.so/3d566453e3674857873182c6928a0ae5?pvs=4)
 [![Blog Badge](https://img.shields.io/badge/Blog-1d1f21?logo=Next.js&logoColor=white&link=https://moonhyeonjun.github.io/)](https://moonhyeonjun.github.io/)
