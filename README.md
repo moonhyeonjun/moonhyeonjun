@@ -12,7 +12,7 @@ I am **motivated**🔥 to help people around me.
  <div>
   <a href="https://github.com/moonhyeonjun">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonhyeonjun&layout=compact&langs_count=7&theme=dark"/>
-  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mhj5256)"/>
+  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mhj5256"/>
 </div>
 
 <img src="https://github.com/moonhyeonjun/moonhyeonjun/blob/output/github-contribution-grid-snake.svg"/>
