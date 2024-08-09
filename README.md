@@ -1,17 +1,49 @@
-### 문현준 ﹒ Hayden
+<p align="center">
+  <img src="assets/header.png"/>
+</p>
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Hyeonjun+Moon;Software+Engineer" width="auto" height="35"/>
+</p>
+<p align="center">
+  <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
+</p>
 
-FE Engineer  
-I am **motivated**🔥 to help people around me.
+<h3 align="center">My interests</h3>
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Interactive+3D+Modeling;Performance+Optimization" width="auto" height="35"/>
+</p>
 
-**아이핌** <sub><sup>@aipim FE developer (2022.04 ~ now)</sup></sub>
+<h3 align="center">Professional experience</h3>
 
-[![Blog Badge](https://img.shields.io/badge/Blog-1d1f21?logo=Blog&logoColor=white&link=https://www.moonhyeonjun.com)](https://www.moonhyeonjun.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoonhyeonjun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonhyeonjun&layout=compact&langs_count=7&theme=dark"/>
-  &nbsp;
-  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mhj5256"/>
+<div align="center">
+  <p>• <strong>아이핌</strong> <sub><sup>@aipim FE developer (2022.04 ~ now)</sup></sub></p>
 </div>
 
-<img src="https://github.com/moonhyeonjun/moonhyeonjun/blob/output/github-contribution-grid-snake.svg"/>
+<h3 align="center">Most Wanted Language</h3>
+<p align="center">
+  <img align="center" src="assets/typescript.png" alt="Python" height="65" width="65" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moonhyeonjun&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,astro, %20notebook,pug,jinja,mdx,cmake" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=moonhyeonjun&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mhj5256" alt="boj"/>
+</p>
+
+<h3 align="center">Connect with Me</h3>
+
+<p align="center">
+  <a href="mailto:mhj5256@gmail.com" target="_blank">
+    <img align="center" src="assets/gmail.png" alt="gmail" height="30" width="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://moonhyeonjun.com" target="_blank">
+    <img align="center" src="assets/web.png" alt="website" height="25" width="25"  />
+  </a>
+</p>
