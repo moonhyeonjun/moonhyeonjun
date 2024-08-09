@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moonhyeonjun&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,astro, %20notebook,pug,jinja,mdx,cmake" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moonhyeonjun&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,astro,cmake,mdx" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -40,10 +40,10 @@
 
 <p align="center">
   <a href="mailto:mhj5256@gmail.com" target="_blank">
-    <img align="center" src="assets/gmail.png" alt="gmail" height="30" width="30" />
+    <img align="center" src="assets/gmail.png" alt="gmail" height="60" width="60" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://moonhyeonjun.com" target="_blank">
-    <img align="center" src="assets/web.png" alt="website" height="25" width="25"  />
+    <img align="center" src="assets/web.png" alt="website" height="55" width="55"  />
   </a>
 </p>
