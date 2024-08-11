@@ -11,7 +11,7 @@
 <h3 align="center">Professional experience</h3>
 
 <div align="center">
-  <p>• <strong style="color: #7f36cf;">AIPIM</strong> <sub><sup>@aipim FE developer (2022.04 ~ now)</sup></sub></p>
+  <p>• <strong><font color="violet">AIPIM</font></strong> <sub><sup>@aipim FE developer (2022.04 ~ now)</sup></sub></p>
 </div>
 
 <h3 align="center">Most Used Language</h3>
@@ -33,11 +33,18 @@
 
 <h3 align="center">Connect with Me</h3>
 
-<p align="center" style="display: flex; justify-content: center; gap: 40px;">
-  <a href="mailto:mhj5256@gmail.com" target="_blank">
-    <img align="center" src="assets/gmail.png" alt="gmail" height="60" width="60" />
-  </a>
-  <a href="https://moonhyeonjun.com" target="_blank">
-    <img align="center" src="assets/web.png" alt="website" height="55" width="55" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="mailto:mhj5256@gmail.com" target="_blank">
+        <img src="assets/gmail.png" alt="gmail" height="60" width="60" />
+      </a>
+    </td>
+    <td style="width: 20px;"></td>
+    <td>
+      <a href="https://moonhyeonjun.com" target="_blank">
+        <img src="assets/web.png" alt="website" height="55" width="55" />
+      </a>
+    </td>
+  </tr>
+</table>
