@@ -11,7 +11,7 @@
 <h3 align="center">Professional experience</h3>
 
 <div align="center">
-  <p>• <strong><font color="violet">AIPIM</font></strong> <sub><sup>@aipim FE developer (2022.04 ~ now)</sup></sub></p>
+  <p>• <strong>$\color{violet}AIPIM$</strong> <sub><sup>@aipim FE developer (2022.04 ~ now)</sup></sub></p>
 </div>
 
 <h3 align="center">Most Used Language</h3>
@@ -33,7 +33,7 @@
 
 <h3 align="center">Connect with Me</h3>
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td>
       <a href="mailto:mhj5256@gmail.com" target="_blank">
