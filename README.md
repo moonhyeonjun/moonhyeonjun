@@ -33,12 +33,17 @@
 
 <h3 align="center">Connect with Me</h3>
 
-<p align="center">
-  <a href="mailto:mhj5256@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="assets/gmail.png" alt="gmail" height="60" width="60" />
-  </a>
-  <span style="display: inline-block; width: 30px;"></span>
-  <a href="https://moonhyeonjun.com" target="_blank" style="text-decoration: none;">
-    <img src="assets/web.png" alt="website" height="55" width="55" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="mailto:mhj5256@gmail.com" target="_blank">
+        <img src="assets/gmail.png" alt="gmail" height="60" width="60" />
+      </a>
+    </td>
+    <td>
+      <a href="https://moonhyeonjun.com" target="_blank">
+        <img src="assets/web.png" alt="website" height="55" width="55" />
+      </a>
+    </td>
+  </tr>
+</table>
