@@ -37,7 +37,7 @@
   <a href="mailto:mhj5256@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="assets/gmail.png" alt="gmail" height="60" width="60" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="display: inline-block; width: 30px;"></span>
   <a href="https://moonhyeonjun.com" target="_blank" style="text-decoration: none;">
     <img src="assets/web.png" alt="website" height="55" width="55" />
   </a>
