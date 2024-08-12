@@ -34,11 +34,11 @@
 <h3 align="center">Connect with Me</h3>
 
 <p align="center">
-  <a href="mailto:mhj5256@gmail.com" target="_blank">
+  <a href="mailto:mhj5256@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="assets/gmail.png" alt="gmail" height="60" width="60" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://moonhyeonjun.com" target="_blank">
+  <a href="https://moonhyeonjun.com" target="_blank" style="text-decoration: none;">
     <img src="assets/web.png" alt="website" height="55" width="55" />
   </a>
 </p>
