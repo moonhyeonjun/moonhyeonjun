@@ -33,7 +33,7 @@
 
 <h3 align="center">Connect with Me</h3>
 
-<table align="center" border="0">
+<table align="center" cellpadding="0" cellspacing="0">
   <tr>
     <td>
       <a href="mailto:mhj5256@gmail.com" target="_blank">
