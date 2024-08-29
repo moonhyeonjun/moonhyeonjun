@@ -11,7 +11,8 @@
 <h3 align="center">Professional experience</h3>
 
 <div align="center">
-  <p>• <strong>$\color{violet}AIPIM$</strong> <sub><sup>@aipim FE developer (2022.04 ~ now)</sup></sub></p>
+  <p>• <strong>$\color{violet}CLAMOS$</strong>&nbsp;&nbsp;<sub><sup>@clamos FE developer (2024.09 ~ now)</sup></sub></p>
+  <p>• <strong>$\color{violet}AIPIM$</strong>&nbsp;&nbsp;<sub><sup>@aipim FE developer (2022.04 ~ 2024.09)</sup></sub></p>
 </div>
 
 <h3 align="center">Most Used Language</h3>
