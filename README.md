@@ -28,9 +28,11 @@
   <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=moonhyeonjun&hide_border=true&theme=transparent" />
 </p>
 
+<!-- 
 <p align="center">
   <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mhj5256" alt="boj"/>
 </p>
+-->
 
 <h3 align="center">Connect with Me</h3>
 
